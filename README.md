@@ -21,6 +21,9 @@ Administro servidores Linux y data centers, opero el monitoreo institucional con
 ### 📌 Proyectos
 
 - **[homelab-monitoring](https://github.com/SebaAq/homelab-monitoring)**: stack de monitoreo listo para levantar con un comando (Prometheus, Grafana, Blackbox, Alertmanager), basado en cómo trabajo en producción.
+- **[swarm-traefik-stack](https://github.com/SebaAq/swarm-traefik-stack)**: Traefik v3 + Portainer sobre Docker Swarm con HTTPS automático, middlewares de seguridad y deploy en un comando.
+- **[sysadmin-scripts](https://github.com/SebaAq/sysadmin-scripts)**: scripts de Bash para el día a día: healthcheck, backups con rotación, limpieza de logs y vencimiento de certificados.
+- **[gesture-tracking](https://github.com/SebaAq/gesture-tracking)**: detección de gestos de la mano en vivo con OpenCV y MediaPipe.
 - **Monitoreo de Radio UBA**: con métricas de disponibilidad mostramos dónde estaban realmente las fallas de la transmisión. El enfoque está explicado en [homelab-monitoring/docs](https://github.com/SebaAq/homelab-monitoring/blob/main/docs/caso-radio.md).
 - **Inventario de racks**: app interactiva para ver la distribución de equipos del data center y qué virtual corre en cada host *(en curso)*.
 - **SIU-Guaraní en contenedores**: piloto de dockerización de sistemas universitarios *(en curso)*.
